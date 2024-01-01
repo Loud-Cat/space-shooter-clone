@@ -1,2 +1,3 @@
 # space-shooter-clone
-A space game inspired by my friend.
+A space game inspired by my friend. Made with the Processing library for Java.
+Game art made by Kenney ([www.kenney.nl](https://www.kenney.nl/)) under Creative Commons CC0
